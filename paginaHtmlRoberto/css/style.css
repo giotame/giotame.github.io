@@ -29,16 +29,14 @@ h1{
      margin-left: 2%;
  }
  
- .footer {
-     width: 100%;
-     min-height: 7%;
-     box-sizing: border-box;
- }
+.footer {
+    box-sizing: border-box;
+}
  
- .footerImg {
-     width: 100%;
-     height: auto;
- }
+.footerImg {
+    width: 100%;
+    height: auto;
+}
  
  @media (max-width: 800px) {
      .background {
