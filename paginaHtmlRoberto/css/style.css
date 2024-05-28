@@ -48,6 +48,6 @@ a {
     }
 
     .structure {
-        min-height: 95vh; /* Assicura che la struttura occupi almeno tutta l'altezza della finestra */
+        min-height: 90vh; /* Assicura che la struttura occupi almeno tutta l'altezza della finestra */
     }
 }
